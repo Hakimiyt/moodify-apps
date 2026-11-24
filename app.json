@@ -18,6 +18,14 @@
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
       }
+    },
+    "plugins": [
+ n     "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "1b8ad0ff-1a5a-4bb7-8121-86e2666867ce"
+      }
     }
   }
 }
